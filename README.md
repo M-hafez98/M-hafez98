@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-hafez98
-- 👀 I’m interested in embedded software and industrial automation 
-- 🌱 I’m currently learning software development and power electronics
-- 💞️ I’m looking to collaborate on embedded software development
+- 👀 I’m interested in embedded software and power electronics 
+- 🌱 I’m continously developing embedded software programming and power electronics skills
+- 💞️ I’m looking to collaborate on embedded software projects
 - 📫 How to reach me : through muhammedhafez98@gmail.com
 
 <!---
